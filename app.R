@@ -32,6 +32,8 @@ ui <- dashboardPage(
           background-color: #3c8dbc;
         }
       ')),
+      # BErad Racing theme (colors, fonts); remove this line to revert to the default look
+      tags$link(rel = "stylesheet", type = "text/css", href = "berad.css"),
       tags$script(
         '
       $(document).ready(function() {
