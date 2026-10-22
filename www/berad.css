@@ -139,6 +139,53 @@ a:hover, a:focus { color: var(--berad-charcoal); opacity: 0.75; }
 .box > .box-body > p > b:first-child { margin-top: 0; }
 
 
+/* Table cards: the three table tabs sit on a cream card -------------------- */
+#shiny-tab-mileage_totals .box,
+#shiny-tab-all_results .box,
+#shiny-tab-course_records .box {
+  background-color: var(--berad-cream);
+  border: 1px solid var(--berad-charcoal);
+  border-radius: 10px;
+}
+
+#shiny-tab-mileage_totals .box > .box-body,
+#shiny-tab-all_results .box > .box-body,
+#shiny-tab-course_records .box > .box-body {
+  padding: 16px;
+}
+
+/* Scrollbars inside the tables, themed to match (Firefox / Chrome 121+) */
+.dataTables_scrollBody,
+.dataTables_wrapper {
+  scrollbar-width: thin;
+  scrollbar-color: var(--berad-charcoal) var(--berad-cream-dark);
+}
+
+/* ...and for WebKit/Blink (Chrome, Safari, Edge) */
+.dataTables_scrollBody::-webkit-scrollbar,
+.dataTables_wrapper::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+
+.dataTables_scrollBody::-webkit-scrollbar-track,
+.dataTables_wrapper::-webkit-scrollbar-track {
+  background: var(--berad-cream-dark);
+  border-radius: 10px;
+}
+
+.dataTables_scrollBody::-webkit-scrollbar-thumb,
+.dataTables_wrapper::-webkit-scrollbar-thumb {
+  background: var(--berad-charcoal);
+  border-radius: 10px;
+  border: 2px solid var(--berad-cream-dark);
+}
+
+.dataTables_scrollBody::-webkit-scrollbar-thumb:hover,
+.dataTables_wrapper::-webkit-scrollbar-thumb:hover {
+  background: #000000;
+}
+
 /* Tables (DataTables) ---------------------------------------------------- */
 table.dataTable {
   font-family: var(--berad-font-body);
@@ -175,12 +222,12 @@ table.dataTable.display tbody tr.odd > .sorting_1 {
 table.dataTable tbody tr.even,
 table.dataTable tbody tr.even > td,
 table.dataTable.display tbody tr.even > .sorting_1 {
-  background-color: transparent !important;
+  background-color: var(--berad-cream-dark) !important;
 }
 
 table.dataTable tbody tr:hover,
 table.dataTable tbody tr:hover > td {
-  background-color: #FFFFFF !important;
+  background-color: var(--berad-mustard) !important;
 }
 
 table.dataTable tbody td { border-top: 1px solid var(--berad-charcoal-15); }
