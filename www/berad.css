@@ -45,8 +45,8 @@ a:hover, a:focus { color: var(--berad-charcoal); opacity: 0.75; }
 
 .skin-blue .main-header .logo {
   font-family: var(--berad-font-display);
-  font-size: 22px;
-  letter-spacing: 1px;
+  font-size: 19px;
+  letter-spacing: 0.5px;
   text-transform: uppercase;
   border-bottom: 0;
 }
@@ -69,14 +69,18 @@ a:hover, a:focus { color: var(--berad-charcoal); opacity: 0.75; }
 .skin-blue .main-header .logo a {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 8px;
   height: 50px;
+  padding: 0 4px;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .berad-logo {
-  height: 38px;
+  height: 34px;
   width: auto;
+  flex: 0 0 auto;
   background-color: var(--berad-cream);
   border-radius: 6px;
   padding: 2px 4px;
