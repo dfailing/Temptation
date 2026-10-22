@@ -338,5 +338,16 @@ table.dataTable tbody td.dataTables_empty {
 
 .skin-blue .main-header .logo a { padding-left: 46px; }
 
+/* Let the title block run wider than the 230px sidebar so logo + title fit */
+.skin-blue .main-header .logo { width: 320px; }
+.main-header .navbar { margin-left: 320px; }
+
+/* Phones: the title block spans the header and the (now empty) navbar
+   collapses to nothing instead of wrapping onto a second row */
+@media (max-width: 767px) {
+  .skin-blue .main-header .logo { width: 100%; float: none; }
+  .main-header .navbar { margin-left: 0; height: 0; min-height: 0; padding: 0; border: 0; }
+}
+
 /* When the sidebar is collapsed on desktop, AdminLTE hides the logo block;
    the toggle stays at the left edge because it is positioned on the header. */
