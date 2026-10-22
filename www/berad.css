@@ -319,3 +319,24 @@ table.dataTable tbody td.dataTables_empty {
 
 /* Space between course-record event groups */
 #course_records_ui > .row { margin-bottom: 24px; }
+
+/* Sidebar toggle (hamburger) moved to the far left, before the logo ------- */
+.main-header { position: relative; }
+/* The navbar is normally the positioning context; make the header the context instead */
+.main-header .navbar { position: static; }
+
+.main-header .navbar .sidebar-toggle {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 50px;
+  width: 44px;
+  padding: 15px 0;
+  text-align: center;
+  z-index: 1031;
+}
+
+.skin-blue .main-header .logo a { padding-left: 46px; }
+
+/* When the sidebar is collapsed on desktop, AdminLTE hides the logo block;
+   the toggle stays at the left edge because it is positioned on the header. */
