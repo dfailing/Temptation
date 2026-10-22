@@ -57,7 +57,7 @@ ui <- dashboardPage(
           box(
             width = 12,
             title = NULL,
-            p(HTML("<b>Getting Started:</b><br>
+            p(HTML("<b>Getting Started</b><br>
               <ul>
                 <li><b>Course Records</b> lists the three fastest finishing times at each race distance (200K, 150K, 100K, 50K, and 10K) for male, female, and non-binary runners. Every long-ultra runner starts the 200K and may stop with an official finish at 50K, 100K, or 150K; each finish is credited at the distance completed.</li>
                 <li><b>Mileage Totals</b> for all finishers are given, along with their completed distance each year. Distances are converted to miles: 200K = 124.3, 150K = 93.2, 100K = 62.1, 50K = 31.1, and 10K = 6.2. Type a runner's name into the search box to see their lifetime results. By default, the table is sorted by total mileage.</li>
@@ -66,19 +66,19 @@ ui <- dashboardPage(
                 <li><b>Course Information</b> below links to the official course description, course photos, and the start/finish area.
               </ul><br>
               If you notice any errors, discrepancies, or have suggestions for improvements, please contact <a href='mailto:david.failing@gmail.com'>David Failing</a>.<br><br>
-              <b>Current Course:</b><br>
+              <b>Current Course</b><br>
               <ul>
                 <li>200K, 150K, 100K, 50K - Loops of an approximately 15.6 mile sandy trail course in Sand Ridge State Forest near Forest City, IL (2 loops per 50K)</li>
                 <li>10K - Out and back on the main course to the Purgatory Aid Station</li>
               </ul><br>
-              <b>Course Information:</b><br>
+              <b>Course Information</b><br>
               <ul>
                 <li>Course Description - <a href='https://www.temptation200.com/about-the-course/' target='_blank'>Temptation 200 Ultras</a></li>
                 <li>Course Photos - <a href='https://www.temptation200.com/about-the-course/course-photos/' target='_blank'>Temptation 200 Ultras</a></li>
                 <li>Camping and Start/Finish Area - <a href='https://goo.gl/maps/c6GaaGVjhhL2' target='_blank'>Google Maps</a></li>
                 <li>Official Results and Records - <a href='https://www.temptation200.com/results/' target='_blank'>Temptation 200 Ultras</a></li>
               </ul><br>
-              <b>Results Sources:</b><br>
+              <b>Results Sources</b><br>
               <ul>
                 <li>2019 - <a href='https://ultrasignup.com/results_event.aspx?did=61867'>Ultrasignup</a></li>
                 <li>2020 - <a href='https://ultrasignup.com/results_event.aspx?did=70941'>Ultrasignup</a></li>
@@ -136,8 +136,8 @@ server <- function(input, output, session) {
   output$course_records_ui <- renderUI({
     course_records <- course_records_data()
     events <- unique(course_records$Event)
-    # Fixed list so the Non-Binary table is shown even when it's empty
-    genders <- c("Male", "Female", "Non-Binary")
+    # Only genders with at least one record are shown (no empty tables)
+    genders <- unique(course_records$Gender)
     
     lapply(events, function(event) {
       fluidRow(lapply(genders, function(gender) {

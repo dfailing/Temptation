@@ -53,17 +53,25 @@ www/GPX/                       Empty (no Temptation GPX files)
 - Team relays are excluded (2023's 97523 has no results anyway). 2026 was canceled (listed with `include = FALSE`).
 - Two finishes in one year would both count (none so far).
 - **Merged accounts:** Matt Hajny (1582444, 10K 2024) is merged into Matthew Hajny (1135125) via `participant_id_merges.csv` (same city, ages line up). Mileage Totals and the registry use the canonical runner; Course Records and All Results keep the name as listed on that result ("Matt" for the 2024 10K). `same_name_runners` only catches exact name matches, so look for first-name variants by hand after each new year.
-- Course records: Male, Female and Non-Binary tables always render. `app.R`'s `renderUI` uses a fixed gender list (`c("Male", "Female", "Non-Binary")`) rather than the genders present in `course_records.csv`, so the Non-Binary tables show "No data available" until an X runner finishes. This is the one server-code change from Hennepin (approved 2026-10-22).
+- Course records: Male, Female and Non-Binary tables, but only genders with at least one record render (`genders <- unique(course_records$Gender)`, as in Hennepin). David chose this (2026-10-22) over empty "No data available" tables on the public site; a Non-Binary table appears automatically once an X runner finishes.
 - Register link points at the latest UltraSignup event page (`did=129819`, the canceled 2026 race) until a 2027 page exists.
+
+## Theme (BErad Racing)
+- Temptation is now organized by BErad Racing (https://www.beradracing.com/, also CMAR and Localz 50K). The app matches their site: mustard page `#EDD286`, charcoal `#2D2D2A` header/sidebar/table headers, cream `#EAE6DD` rows, Anton (uppercase display) and Epilogue (body) from Google Fonts, 10px rounded controls, flat content with no panels, and a "BE YOU ~ BE RAD" footer line.
+- Everything lives in `www/berad.css`, loaded by one `tags$link()` line in `app.R`'s `tags$head`. Remove that line to revert to the stock shinydashboard look. The CSS is self-contained and can be dropped into the CMAR app the same way.
+- The start-page headings are the `<b>` elements directly inside `.box-body` (the `<ul>` auto-closes the `<p>`), styled as big Anton headings. The footer is `.content-wrapper::after` (pure CSS, no markup).
+- Google Fonts are unreachable from the cloud workspace, so headless screenshots show fallback fonts (and the header may truncate there); check real rendering on David's machine.
+- Git: `dfailing/Temptation`. `main` = unstyled baseline (12c5df9); `berad-style` = theme branch. David's folder is a clone with both branches; edits from Claude sessions go through the repo (push a branch, David pulls in RStudio).
 
 ## Verification habits
 - After a download, compare each file's row and finisher counts with UltraSignup (fetch the results service through Chrome). As of 2026-10-22: 31 races, 384 rows, 338 finishers (303 status 1 + 35 status 6), 238 UltraSignup IDs, 237 runners after the Hajny merge.
 - After aggregation: the sum of Mileage Totals' Total Miles equals the sum of its year columns (18,746.0 miles), and All Results row count equals finishers (338).
 - Re-running `01_data-load.R` on unchanged inputs reproduces `data/` byte-for-byte (verified 2026-10-22).
-- Playwright test 2026-10-22: 15 course-record tables (5 events x 3 genders), Mileage Totals 237 rows, All Results 338 rows, searches "Hajny" (1), "2021 100K" (24) and "Delheimer" (3) work, no console errors.
+- Playwright test 2026-10-22: 10 course-record tables (5 events x Male/Female; Non-Binary appears when data exists), Mileage Totals 237 rows, All Results 338 rows, searches "Hajny" (1), "2021 100K" (24) and "Delheimer" (3) work, no console errors.
 
 ## Open tasks
 **Before deploying**
+- Merge `berad-style` into `main` once David approves the look.
 - There's no `rsconnect/` folder, so the first deploy creates a new app. Give it its own name (e.g. "Temptation") so it can't overwrite the live CMAR or Hennepin apps.
 - Optional: add `CLAUDE.md` to `.rscignore`.
 - After deploying, add the app link to `README.md`.

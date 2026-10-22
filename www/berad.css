@@ -89,16 +89,15 @@ a:hover, a:focus { color: var(--berad-charcoal); opacity: 0.75; }
   border-left-color: var(--berad-mustard);
 }
 
-/* Content boxes ---------------------------------------------------------- */
+/* Content boxes: flat on the mustard page, as on beradracing.com ---------- */
 .box {
-  background-color: var(--berad-cream);
-  border: 1px solid var(--berad-charcoal);
-  border-top: 1px solid var(--berad-charcoal);
-  border-radius: 10px;
+  background-color: transparent;
+  border: 0;
+  border-radius: 0;
   box-shadow: none;
 }
 
-.box-body { border-radius: 10px; }
+.box-body { padding: 10px 0; }
 
 .box b, .box strong { font-weight: 700; }
 
@@ -106,12 +105,18 @@ a:hover, a:focus { color: var(--berad-charcoal); opacity: 0.75; }
 /* The <ul> inside the <p> auto-closes it, so later headings sit directly in .box-body */
 .box > .box-body > p > b,
 .box > .box-body > b {
+  display: block;
   font-family: var(--berad-font-display);
   font-weight: 400;
-  font-size: 20px;
+  font-size: 34px;
+  line-height: 1.1;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  margin: 18px 0 6px;
 }
+
+.box > .box-body > p > b:first-child { margin-top: 0; }
+
 
 /* Tables (DataTables) ---------------------------------------------------- */
 table.dataTable {
@@ -149,12 +154,12 @@ table.dataTable.display tbody tr.odd > .sorting_1 {
 table.dataTable tbody tr.even,
 table.dataTable tbody tr.even > td,
 table.dataTable.display tbody tr.even > .sorting_1 {
-  background-color: var(--berad-cream-dark) !important;
+  background-color: transparent !important;
 }
 
 table.dataTable tbody tr:hover,
 table.dataTable tbody tr:hover > td {
-  background-color: var(--berad-mustard) !important;
+  background-color: #FFFFFF !important;
 }
 
 table.dataTable tbody td { border-top: 1px solid var(--berad-charcoal-15); }
@@ -224,3 +229,25 @@ table.dataTable tbody td.dataTables_empty {
 
 /* DataTables processing/scroll chrome */
 .dataTables_scrollBody { border-bottom: 0 !important; }
+
+/* Footer marquee, as on beradracing.com (pure CSS, no markup) ------------ */
+.content-wrapper::after {
+  content: "BE YOU \A0 \223F \A0 BE RAD \A0 \223F \A0 BE YOU \A0 \223F \A0 BE RAD \A0 \223F \A0 BE YOU \A0 \223F \A0 BE RAD \A0 \223F \A0 BE YOU \A0 \223F \A0 BE RAD \A0 \223F \A0 BE YOU \A0 \223F \A0 BE RAD \A0 \223F \A0 BE YOU \A0 \223F \A0 BE RAD \A0 \223F \A0 BE YOU \A0 \223F \A0 BE RAD \A0 \223F \A0 BE YOU \A0 \223F \A0 BE RAD \A0 \223F \A0 ";
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-top: 40px;
+  padding: 10px 0 14px;
+  font-family: var(--berad-font-display);
+  font-size: 26px;
+  letter-spacing: 1px;
+  color: var(--berad-charcoal);
+  opacity: 0.9;
+}
+
+/* Keep the page tall enough that the marquee sits at the bottom */
+.content-wrapper { display: flex; flex-direction: column; min-height: calc(100vh - 50px); }
+.content-wrapper > .content { flex: 1 0 auto; width: 100%; }
+
+/* Space between course-record event groups */
+#course_records_ui > .row { margin-bottom: 24px; }
