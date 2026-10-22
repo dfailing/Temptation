@@ -1,0 +1,8 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2023,102498,10K,6.2,40,0,40-49,,Lincoln,0,0,Brian,1:07:42,M,1,,Tomkinson,1998416,0,1,0,0,62.77,IL,6,4062000
+2023,102498,10K,6.2,43,0,40-49,,Peoria,0,0,James,1:12:54,M,2,,Booth,58708,0,2,0,0,73.02,IL,6,4374000
+2023,102498,10K,6.2,36,0,30-39,,Peoria,0,0,Rebecca,1:22:15,F,1,,Cox,2234286,0,3,0,0,79.2,IL,6,4935000
+2023,102498,10K,6.2,42,0,40-49,,Pana,0,0,Shawntay,1:40:38,F,2,,Dial,2081044,0,4,0,0,62.68,IL,6,6038000
+2023,102498,10K,6.2,46,0,40-49,,Moline,0,0,Kate,1:50:42,F,3,,McKinley,1218056,0,5,0,0,52.1,IL,6,6642000
+2023,102498,10K,6.2,40,0,40-49,,Peoria,0,0,Genn,2:02:27,F,4,,King,2180109,0,6,0,0,54.62,IL,6,7347000
+2023,102498,10K,6.2,65,0,60-69,,Peoria,0,0,Therese,2:37:26,F,5,,Brink,1412421,0,7,0,0,54.93,IL,6,9446000

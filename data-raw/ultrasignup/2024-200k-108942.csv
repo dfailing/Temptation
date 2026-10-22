@@ -1,0 +1,7 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2024,108942,200K,124.3,35,0,30-39,,Zelienople,0,0,Shannon,38:37:29,F,1,,Mick,1327577,0,1,0,0,73.1,PA,1,139049000
+2024,108942,200K,124.3,48,0,40-49,,Bloomington,0,0,Rob,39:23:23,M,1,,Judd,952315,0,2,0,0,64.2,IL,1,141803000
+2024,108942,200K,124.3,54,0,50-59,,Decatur,0,0,Sean,0,M,0,,Marling,1972050,0,0,0,0,52.2,IL,2,0
+2024,108942,200K,124.3,44,0,40-49,,Darien,0,0,Nora,0,F,0,,Ortinau,2134823,0,0,0,0,70.04,IL,2,0
+2024,108942,200K,124.3,37,0,30-39,,Columbia,0,0,Elizabeth,0,F,0,,Kelly,2138692,0,0,0,0,64.89,MO,2,0
+2024,108942,200K,124.3,34,0,30-39,,Clinton,0,0,Sean,0,M,0,,Good,2320077,0,0,0,0,55.85,IL,2,0

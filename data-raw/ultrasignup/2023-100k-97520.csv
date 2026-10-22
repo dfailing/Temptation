@@ -1,0 +1,9 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2023,97520,100K,62.1,38,0,30-39,,Cary,0,0,Shannan,13:57:10,F,1,,Chehade,45136,0,1,0,0,85.68,IL,6,50230000
+2023,97520,100K,62.1,22,0,20-29,,Boulder,0,0,Braden,14:54:27,M,1,,Bolles,2322393,0,2,0,0,73.05,CO,6,53667000
+2023,97520,100K,62.1,41,0,40-49,,Elizabethtown,0,0,Nathaniel,15:10:20,M,2,,Guthrie,1711919,0,3,0,0,72.29,KY,6,54620000
+2023,97520,100K,62.1,37,0,30-39,,Vernon Hills,0,0,Vincent,16:27:16,M,3,,Kwok,2084004,0,4,0,0,66.97,IL,6,59236000
+2023,97520,100K,62.1,45,0,40-49,,Naperville,0,0,Sherry,16:53:52,F,2,,Gaffney,2116414,0,5,0,0,71.57,IL,6,60832000
+2023,97520,100K,62.1,45,0,40-49,,Naperville,0,0,Katie,16:54:00,F,3,,Steinfeld,2116422,0,6,0,0,77.58,IL,6,60840000
+2023,97520,100K,62.1,31,0,30-39,,Corte Madera,0,0,Michael,17:49:49,M,4,,Leddy,2410605,0,7,0,0,0,CA,6,64189000
+2023,97520,100K,62.1,38,0,30-39,,Lombard,0,0,Chris,19:56:54,M,5,,Putrich,1956323,0,8,0,0,55.81,IL,6,71814000

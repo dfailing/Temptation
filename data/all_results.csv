@@ -1,0 +1,339 @@
+Year,Event,Place,First,Last,City,State,Age,Gender,DP,Time
+2025,200K,1,Cat,Delheimer,Cornell,IL,42,F,1,35:50:07
+2025,150K,1,Mike,Dossett,Springfield,IL,55,M,1,23:18:31
+2025,150K,2,Dan,Schreck,Georgetown,IL,45,M,2,26:41:37
+2025,150K,3,Chad,McDannald,Franklin,IL,50,M,3,26:56:36
+2025,150K,4,Dakota,Schwebke,Coralville,IA,30,M,4,27:05:39
+2025,150K,5,Alexander,Duvall,Alexandria,KY,37,M,5,29:07:46
+2025,150K,6,Daniel,Hopping,Canton,IL,41,M,6,30:12:35
+2025,150K,6,Dave,Pettett,East Peoria,IL,45,M,6,30:12:35
+2025,100K,1,Michael,Donini,Metamora,IL,37,M,1,15:27:46
+2025,100K,2,Floyd,Bastien,Chatham,IL,29,M,2,16:40:01
+2025,100K,3,Chris,Beckwith,Cumming,IA,46,M,3,16:42:01
+2025,100K,4,Benjamin,Herbst,Saint Charles,MO,32,M,4,17:52:42
+2025,100K,5,Rob,Judd,Bloomington,IL,49,M,5,18:19:01
+2025,100K,6,Nora,Ortinau,Darien,IL,45,F,1,20:13:03
+2025,100K,7,Jeff,Kayse,Cincinnati,OH,39,M,6,23:36:11
+2025,100K,8,Daniel,Chen,Champaign,IL,45,M,7,26:44:19
+2025,100K,9,Kiran,Gutta,Buffalo Grove,IL,42,M,8,28:10:41
+2025,50K,1,Jacob,Albert,Decatur,IL,28,M,1,3:49:12
+2025,50K,2,Matthew,Hajny,Washington,IL,48,M,2,4:40:14
+2025,50K,3,Sophie,Russell,Morton,IL,38,F,1,6:18:51
+2025,50K,4,Samuel,Johnson,Evanston,IL,22,M,3,6:49:33
+2025,50K,4,Matthew,Moy Johnson,Evanston,IL,56,M,3,6:49:33
+2025,50K,6,Timothy,Callahan,Chillicothe,IL,45,M,5,6:50:05
+2025,50K,7,Justin,Brown,Hudson,IL,30,M,6,6:57:20
+2025,50K,8,Austin,Rhodes,St. David,IL,31,M,7,7:17:07
+2025,50K,9,Matthew,McKinney,Metamora,IL,35,M,8,7:30:55
+2025,50K,10,Jonathan,Miller,Mackinaw,IL,37,M,9,7:56:01
+2025,50K,11,David,Ericson,Spaulding,IL,65,M,10,7:56:29
+2025,50K,12,Emily,Schirer,Benson,IL,45,F,2,9:13:50
+2025,50K,13,Robert,Whitten,Genoa,IL,61,M,11,9:22:18
+2025,50K,14,Shawntay,Dial,Pana,IL,43,F,3,9:30:31
+2025,50K,15,Tara,Mayner,Bloomington,IL,54,F,4,9:39:43
+2025,50K,16,Aaron,Rogers,Moline,IL,22,M,12,9:47:10
+2025,50K,17,Caroline,Tonozzi,Savoy,IL,48,F,5,9:57:12
+2025,10K,1,Brian,Tomkinson,Lincoln,IL,42,M,1,1:06:32
+2025,10K,2,Genn,King,Peoria,IL,42,F,1,1:50:23
+2025,10K,3,Therese,Brink,Peoria,IL,67,F,2,1:52:31
+2024,200K,1,Shannon,Mick,Zelienople,PA,35,F,1,38:37:29
+2024,200K,2,Rob,Judd,Bloomington,IL,48,M,1,39:23:23
+2024,150K,1,Chad,McDannald,Franklin,IL,49,M,1,26:53:52
+2024,150K,2,John,Brooks,Aurora,IL,26,M,2,28:22:58
+2024,150K,3,Bj,Farmer,Burr Ridge,IL,37,M,3,35:08:08
+2024,100K,1,Daneille,Fowler,Kenockee,MI,45,F,1,13:23:12
+2024,100K,2,Marc,Fensler,New Castle,IN,24,M,1,13:52:53
+2024,100K,3,Andy,Colbert,Oregon,IL,66,M,2,14:48:25
+2024,100K,4,Tom,Cox,Chico,CA,38,M,3,15:19:19
+2024,100K,5,Christian,Schmidt,Madison,WI,29,M,4,15:57:47
+2024,100K,6,Elizabeth,Foster,Chicago,IL,34,F,2,17:26:27
+2024,100K,7,Shay,Gibson,Arcola,IL,40,M,5,18:47:20
+2024,100K,8,Chris,Beckwith,Cumming,IA,45,M,6,19:15:26
+2024,100K,9,Casey,Welscher,Industry,IL,35,F,3,19:15:29
+2024,100K,10,Mark,White,Rochester,MN,58,M,7,19:25:51
+2024,100K,11,Drake,White,Macomb,IL,63,M,8,19:25:53
+2024,100K,12,Pat,Culen,Chicago,IL,51,M,9,19:55:28
+2024,100K,13,Alexander,Duvall,Alexandria,KY,36,M,10,20:12:16
+2024,100K,14,Levi,Marriott,Saint Joseph,IL,45,M,11,20:12:42
+2024,100K,15,Donna,Jasper,Dixon,IL,55,F,4,20:51:01
+2024,100K,16,Natasha,Mazumdar,Superior,CO,34,F,5,22:39:56
+2024,100K,17,Michael,Anderson,Galesburg,IL,49,M,12,23:04:00
+2024,100K,18,Francisco,Orozco,Schaumburg,IL,31,M,13,23:08:24
+2024,100K,19,Douglas,Wielgat,Racine,WI,68,M,14,25:02:51
+2024,100K,20,Daniel,Chen,Champaign,IL,44,M,15,25:02:52
+2024,100K,21,Nate,Boxdorfer,Saint Louis,MO,36,M,16,26:36:43
+2024,100K,22,Glen,Leckman,Marietta,GA,73,M,17,30:18:41
+2024,100K,23,Reinaldo,Monges,Doral,FL,49,M,18,34:38:27
+2024,100K,24,Kiran,Gutta,Buffalo Grove,IL,41,M,19,35:21:21
+2024,50K,1,Jacob,Albert,Decatur,IL,27,M,1,4:08:25
+2024,50K,2,Matt,Schipps,Bangor,PA,25,M,2,5:43:21
+2024,50K,3,Tim,Mahler,Springfield,IL,64,M,3,7:47:27
+2024,50K,4,Steven,Reese,Sycamore,IL,43,M,4,7:55:04
+2024,50K,5,Dennis,Cannell,Weatherby,MO,65,M,5,8:35:58
+2024,50K,6,Emily,Schirer,Benson,IL,44,F,1,8:57:57
+2024,50K,7,Melanie,Linderer,Liberty,MO,47,F,2,9:21:35
+2024,50K,8,Tara,Mayner,Bloomington,IL,53,F,3,9:21:37
+2024,50K,9,Edna,Vazquez,Chicago,IL,43,F,4,9:32:09
+2024,50K,10,Marlen,Morales,Chicago,IL,22,F,5,9:35:18
+2024,50K,11,Caroline,Tonozzi,Savoy,IL,47,F,6,9:49:17
+2024,50K,12,Erin,Kirkpatrick,Springfield,IL,35,F,7,10:04:24
+2024,50K,13,Ethan,Brewer,Oakwood,IL,19,M,6,10:11:50
+2024,50K,14,Shawntay,Dial,Pana,IL,42,F,8,11:01:47
+2024,50K,15,Gerald,Stock,Morrison,IL,56,M,7,12:36:47
+2024,50K,16,Dan,Dissell,Dixon,IL,52,M,8,12:44:15
+2024,10K,1,Brian,Tomkinson,Lincoln,IL,41,M,1,1:03:43
+2024,10K,2,Matt,Hajny,Washington,IL,47,M,2,1:04:21
+2024,10K,3,Elisa,Thorson,Odell,IL,37,F,1,1:23:59
+2024,10K,4,Laurie,Baker,Bloomington,IL,59,F,2,1:36:09
+2024,10K,5,Therese,Brink,Peoria,IL,66,F,3,2:01:42
+2024,10K,6,Genn,King,Peoria,IL,41,F,4,2:02:03
+2024,10K,7,Callianne,Adkins,Dixon,IL,39,F,5,2:44:16
+2023,200K,1,David,Kleparek,Elizabethtown,KY,43,M,1,35:39:20
+2023,200K,2,Jacob,Albert,Decatur,IL,26,M,2,37:20:15
+2023,150K,1,Cat,Delheimer,Cornell,IL,40,F,1,25:04:38
+2023,150K,2,Todd,Baker,Morton,IL,49,M,1,28:42:31
+2023,150K,3,Robert,Whitten,Genoa,IL,59,M,2,33:51:32
+2023,150K,4,Daniel,Chen,Champaign,IL,43,M,3,36:11:31
+2023,100K,1,Shannan,Chehade,Cary,IL,38,F,1,13:57:10
+2023,100K,2,Braden,Bolles,Boulder,CO,22,M,1,14:54:27
+2023,100K,3,Nathaniel,Guthrie,Elizabethtown,KY,41,M,2,15:10:20
+2023,100K,4,Vincent,Kwok,Vernon Hills,IL,37,M,3,16:27:16
+2023,100K,5,Sherry,Gaffney,Naperville,IL,45,F,2,16:53:52
+2023,100K,6,Katie,Steinfeld,Naperville,IL,45,F,3,16:54:00
+2023,100K,7,Michael,Leddy,Corte Madera,CA,31,M,4,17:49:49
+2023,100K,8,Chris,Putrich,Lombard,IL,38,M,5,19:56:54
+2023,50K,1,Matthew,Hajny,Washington,IL,46,M,1,5:09:05
+2023,50K,2,Andy,Colbert,Oregon,IL,65,M,2,5:14:30
+2023,50K,3,Rich,Fela,Bloomington,IL,50,M,3,6:56:13
+2023,50K,4,Casey,Welscher,Ipava,IL,34,F,1,7:00:10
+2023,50K,5,Mark,Kirkland,Urbana,IL,49,M,4,7:09:27
+2023,50K,6,Ashley,Melo,Hanford,CA,31,F,2,7:10:01
+2023,50K,7,Tim,Mahler,Springfield,IL,63,M,5,7:28:56
+2023,50K,8,Courtney,Osbourne,Plano,IL,40,F,3,7:31:56
+2023,50K,9,Rob,Judd,Bloomington,IL,47,M,6,7:45:31
+2023,50K,10,Jeffrey,Hansen,Naperville,IL,44,M,7,8:09:26
+2023,50K,11,David,Ericson,Spaulding,IL,63,M,8,8:28:20
+2023,50K,12,Megan,Manning,Dubuque,IA,39,F,4,8:55:34
+2023,50K,12,Michael,Manning,Dubuque,IA,41,M,9,8:55:34
+2023,50K,14,Edna,Vazquez,Chicago,IL,42,F,5,9:08:37
+2023,50K,15,Leather,Henkel,Dixon,IL,35,M,10,9:23:48
+2023,50K,16,Alexandra,Berl,Chicago,IL,27,F,6,9:48:17
+2023,50K,17,Tara,Mayner,Bloomington,IL,52,F,7,9:48:18
+2023,10K,1,Brian,Tomkinson,Lincoln,IL,40,M,1,1:07:42
+2023,10K,2,James,Booth,Peoria,IL,43,M,2,1:12:54
+2023,10K,3,Rebecca,Cox,Peoria,IL,36,F,1,1:22:15
+2023,10K,4,Shawntay,Dial,Pana,IL,42,F,2,1:40:38
+2023,10K,5,Kate,McKinley,Moline,IL,46,F,3,1:50:42
+2023,10K,6,Genn,King,Peoria,IL,40,F,4,2:02:27
+2023,10K,7,Therese,Brink,Peoria,IL,65,F,5,2:37:26
+2022,200K,1,Daniel,Williams,Kankakee,IL,23,M,1,34:18:06
+2022,150K,1,Aaron,Hamman,Rockford,MI,36,M,1,19:04:34
+2022,100K,1,Matthias,Kemmeren,Dixon,IL,43,M,1,12:43:41
+2022,100K,2,Andrew,Hermiston,New Liberty,IA,34,M,2,12:55:29
+2022,100K,3,Zach,DeBoer,Milwaukee,WI,29,M,3,15:30:24
+2022,100K,4,Nathan,Pritzker,Morton,IL,32,M,4,17:01:57
+2022,100K,5,Chris,Beckwith,Cumming,IA,43,M,5,17:02:01
+2022,100K,6,Rob,Judd,Bloomington,IL,46,M,6,18:12:50
+2022,100K,7,Amanda,Turner,Morton,IL,39,F,1,18:14:40
+2022,100K,8,Brian,Gebhart,Flint,MI,28,M,7,20:42:00
+2022,100K,9,Daniel,Chen,Champaign,IL,42,M,8,24:24:50
+2022,100K,10,Alex,Garza,Rock Falls,IL,33,M,9,28:26:18
+2022,50K,1,Matthew,Hajny,Washington,IL,45,M,1,4:32:04
+2022,50K,2,Scott,Slightom,El Paso,IL,48,M,2,5:28:34
+2022,50K,3,Scott,Dewitt,Mahomet,IL,44,M,3,5:55:29
+2022,50K,4,Tim,Mahler,Springfield,IL,62,M,4,6:17:26
+2022,50K,5,Mark,Kirkland,Urbana,IL,48,M,5,6:18:10
+2022,50K,6,Chad,Gregory,South Barrington,IL,30,M,6,6:41:27
+2022,50K,7,Pete,Cleary,Bloomington,IL,45,M,7,7:03:07
+2022,50K,8,Casey,Welscher,Ipava,IL,33,F,1,7:05:36
+2022,50K,9,Rich,Fela,Bloomington,IL,49,M,8,7:18:45
+2022,50K,10,Sophie,Russell,Peoria,IL,35,F,2,8:31:04
+2022,50K,11,Debra,Studniarz,Champaign,IL,58,F,3,9:26:08
+2022,50K,12,Dave,Bechtold,Covington,IN,67,M,9,9:26:09
+2022,50K,13,Edna,Vasquez,Romeoville,IL,41,F,4,9:33:09
+2022,50K,14,Linda,Lopez,Chicago,IL,55,F,5,9:35:42
+2022,50K,15,Lori,Kaldenberg,Champaign,IL,53,F,6,9:43:46
+2022,50K,16,Gerald,Stock,Morrison,IL,54,M,10,10:03:43
+2022,50K,17,Gregory,Dekeyser,Eureka,IL,41,M,11,10:06:03
+2022,50K,18,Julie,Wright,Georgetown,IL,61,F,7,10:06:06
+2022,50K,19,Bj,Farmer,Burr Ridge,IL,35,M,12,10:12:44
+2021,200K,1,Matthew,Hajny,Washington,IL,44,M,1,31:52:07
+2021,200K,2,Tammy,Hellings,Chicago,IL,41,F,1,39:02:38
+2021,200K,3,Scott,Slightom,El Paso,IL,47,M,2,39:05:10
+2021,150K,1,Todd,Gunter,Great Lakes,IL,34,M,1,26:33:41
+2021,150K,2,Sergio,Arreola,Joliet,IL,50,M,2,27:37:01
+2021,150K,3,Eric,Bloomquist,Lake In Hills,IL,53,M,3,28:16:35
+2021,150K,4,Sheel,Stueber,Chicago,IL,24,M,4,28:40:45
+2021,150K,5,Nick,Sauvan,Augusta,GA,29,M,5,31:00:34
+2021,150K,6,Morgan,Mader,Villa Park,IL,36,F,1,32:14:59
+2021,150K,7,James,Solomon,Villa Park,IL,31,M,6,32:15:00
+2021,150K,8,Michael,Braun,Towanda,IL,26,M,7,32:54:14
+2021,150K,9,Stacey,Barrientos,Barnhart,MO,47,F,2,33:49:24
+2021,150K,10,Agatha,Kerr,San Antonio,TX,41,F,3,34:12:16
+2021,150K,11,Loren,Wohletz,Pensacola,FL,36,M,8,38:12:06
+2021,150K,12,Suzie,Luthe,Fort Wayne,IN,50,F,4,38:14:20
+2021,100K,1,Austin,Cotner,Tulsa,OK,24,M,1,13:39:15
+2021,100K,2,Jeff,Davies,Poplar Grove,IL,51,M,2,13:59:39
+2021,100K,3,Aaron,Hamman,Rockford,MI,35,M,3,14:25:47
+2021,100K,4,Cat,Delheimer,Cornell,IL,38,F,1,14:40:35
+2021,100K,5,Matthew,Metzger,Fort Atkinson,WI,33,M,4,15:05:14
+2021,100K,6,Abbi,Auger,Louisville,KY,52,F,2,15:27:40
+2021,100K,7,Dawn,Owen,Rock Falls,IL,48,F,3,17:04:23
+2021,100K,8,Derek,Beecham,Columbus,GA,33,M,5,17:48:20
+2021,100K,9,Glenn,Richardson,Louisville,KY,45,M,6,18:00:55
+2021,100K,10,Rob,Judd,Bloomington,IL,45,M,7,18:18:55
+2021,100K,11,Scott,Nailor,Winnebago,IL,50,M,8,18:18:57
+2021,100K,12,James,Sinclair,Shiloh,IL,39,M,9,18:45:57
+2021,100K,13,Josh,Hedrick,Heyworth,IL,38,M,10,19:26:05
+2021,100K,14,Gerald,Stock,Morrison,IL,53,M,11,20:44:27
+2021,100K,15,Bj,Farmer,Burr Ridge,IL,34,M,12,21:01:19
+2021,100K,16,Dave,Bechtold,Covington,IN,66,M,13,21:01:42
+2021,100K,17,Sophie,Russell,Peoria,IL,34,F,4,21:29:31
+2021,100K,18,Jacob,Creech,Pensacola,FL,30,M,14,23:04:14
+2021,100K,19,Lizbeth,Ramirez,Panama,PA,54,F,5,23:27:28
+2021,100K,19,Iris,Regalado,Panama,PA,53,F,5,23:27:28
+2021,100K,19,George,Shoemaker,Panama,PA,54,M,15,23:27:28
+2021,100K,22,Susan,Bitner,Paris,MO,49,F,7,25:02:45
+2021,100K,23,Christopher,Asmar,Pensacola,FL,32,M,16,28:43:50
+2021,100K,24,Amy,Michlitsch,Wichita,KS,53,F,8,29:39:35
+2021,50K,1,Wilson,Ray,Boston,MA,25,M,1,4:51:41
+2021,50K,2,Lee,McKinley,Dune Acres,IN,60,M,2,5:19:50
+2021,50K,3,Rich,Fela,Bloomington,IL,48,M,3,6:14:36
+2021,50K,4,Tim,Mahler,Springfield,IL,61,M,4,6:52:18
+2021,50K,5,Travis,Graves,Peoria,IL,37,M,5,7:00:37
+2021,50K,6,Jacob,Fontaine,Armington,IL,28,M,6,7:16:10
+2021,50K,7,Pete,Cleary,Bloomington,IL,44,M,7,7:18:57
+2021,50K,8,Maria,Radonova,Chicago,IL,43,F,1,8:25:19
+2021,50K,9,Steve,Hoger,Seward,NE,64,M,8,8:32:13
+2021,50K,10,Jill,Moser,Morton,IL,46,F,2,8:48:44
+2021,50K,11,Tara,Mayner,Bloomington,IL,50,F,3,9:23:33
+2021,50K,12,Tiffany,Anderson,Matherville,IL,40,F,4,9:35:44
+2021,50K,13,Erika,Asmar,Pensacola,FL,30,F,5,9:44:43
+2021,50K,14,Stephen,Kazinski,Milwaukee,WI,31,M,9,10:18:21
+2021,50K,15,Akhil,Isanaka,Greenwood,IN,21,M,10,11:26:52
+2020,200K,1,James,Solomon,Villa Park,IL,30,M,1,32:38:44
+2020,200K,2,Erika,Kuhnle,Grand Rapids,MI,43,F,1,33:42:42
+2020,200K,3,Angela,McKnight,St. Louis,MO,41,F,2,35:35:06
+2020,200K,4,Glenn,Richardson,Louisville,KY,44,M,2,37:28:56
+2020,150K,1,Matthew,Hajny,,,43,M,1,20:49:27
+2020,150K,2,Aron,Mcdonald,,,48,M,2,25:34:25
+2020,150K,3,Brandi,Payne,,,35,F,1,26:41:14
+2020,150K,4,Elisabeth,Campbell,,,40,F,2,26:41:23
+2020,150K,5,Rob,Judd,,,44,M,3,28:18:01
+2020,150K,6,Jarrod,Blossom,,,40,M,4,29:10:39
+2020,150K,7,Dawn,Owen,,,47,F,3,29:45:38
+2020,150K,8,Benjamin,Garcia,,,44,M,5,31:14:49
+2020,150K,9,Maria,Mendoza,,,49,F,4,31:55:17
+2020,150K,10,Darren,Sorgenfrei,,,53,M,6,33:58:15
+2020,150K,11,Natasha,Mazumdar,,,30,F,5,35:27:01
+2020,100K,1,David,Carta,,,30,M,1,11:37:37
+2020,100K,2,Brian,Hall,,,43,M,2,12:49:54
+2020,100K,3,Glen,Longhurst,,,45,M,3,14:12:23
+2020,100K,4,Jimmy,Jones,,,42,M,4,14:32:58
+2020,100K,5,Brian,Schmidt,,,37,M,5,14:33:12
+2020,100K,6,Kristin,Mock,,,30,F,1,14:34:28
+2020,100K,7,Todd,Gunter,,,34,M,6,15:06:23
+2020,100K,8,Braden,Lenz,,,27,M,7,15:16:04
+2020,100K,9,Mitchell,Elliott,,,36,M,8,16:31:56
+2020,100K,10,Daniel,Lamthach,,,20,M,9,16:40:03
+2020,100K,11,Craig,Lunaas,,,62,M,10,16:40:04
+2020,100K,12,Abbi,Auger,,,51,F,2,16:47:45
+2020,100K,13,Scott,Slightom,,,46,M,11,17:04:24
+2020,100K,14,Tim,Oldenburg,,,34,M,12,17:15:33
+2020,100K,15,Daniel,Carney,,,50,M,13,18:20:13
+2020,100K,16,Edward,Green,,,60,M,14,18:46:19
+2020,100K,17,Susan,Miller,,,45,F,3,19:03:03
+2020,100K,18,Kevin,Dunn,,,48,M,15,19:23:20
+2020,100K,19,Anthony,Slauson,,,59,M,16,20:15:35
+2020,100K,20,Bj,Farmer,,,33,M,17,20:49:49
+2020,100K,21,Morgan,Mader,,,35,F,4,21:06:04
+2020,100K,22,Kyla,Mahoney,,,27,F,5,22:13:15
+2020,100K,23,Agatha,Kerr,,,40,F,6,22:50:56
+2020,100K,24,Hannah,Freeman-Choi,,,35,F,7,24:24:40
+2020,100K,25,Alex,Garza,,,31,M,18,29:32:41
+2020,50K,1,Mike,Kelsey,,,44,M,1,5:51:38
+2020,50K,2,Dj,Hanna,,,33,M,2,5:53:58
+2020,50K,3,Rich,Fela,Bloomington,IL,47,M,3,5:59:02
+2020,50K,4,Albert,Mauro,Kansas City,MO,53,M,4,6:06:23
+2020,50K,5,Nate,Turner,,,40,M,5,6:22:58
+2020,50K,6,Amanda,Turner,,,37,F,1,6:24:15
+2020,50K,7,John,James,Troy,IL,57,M,6,6:24:32
+2020,50K,8,Josh,Hedrick,Heyworth,IL,37,M,7,6:39:54
+2020,50K,9,Audrey,Sparks,Bloomington,IL,43,M,8,6:49:50
+2020,50K,10,Brent,Schmitt,,,40,M,9,6:56:28
+2020,50K,11,Gerald,Stock,Morrison,IL,52,M,10,7:11:07
+2020,50K,12,David,Hosbrough,,,43,M,11,7:34:02
+2020,50K,13,Dan,Darling,,,29,M,12,7:39:54
+2020,50K,14,Laurie,Dunn,North Las Vegas,NV,46,F,2,8:02:11
+2020,50K,15,Luke,Kisielewski,Chicago,IL,39,M,13,8:07:35
+2020,50K,16,Tara,Mayner,Normal,IL,49,F,3,8:43:54
+2020,50K,17,Julia,Carrell,East Peoria,IL,39,F,4,8:59:14
+2020,50K,18,Julie,Wright,,,59,F,5,9:00:05
+2020,50K,19,Franziska,Andonopoulos,,,29,F,6,9:01:19
+2020,50K,20,Tiffany,Anderson,Matherville,IL,39,F,7,9:30:55
+2020,50K,21,Willie,Mangrum,,,43,M,14,10:57:51
+2020,50K,22,Cindy,Rieckhoff,,,52,F,8,10:58:18
+2020,50K,23,Amy,Michlitsch,,,52,F,9,11:25:42
+2019,200K,1,Jeffrey,Lenard,Johnsburg,IL,53,M,1,33:01:20
+2019,200K,2,Matthew,Condron,Libertyville,IL,53,M,2,37:03:33
+2019,200K,3,Gabriel,Trevino,Peoria,IL,42,M,3,37:22:09
+2019,200K,4,David,Hanna,Marquette Heights,IL,32,M,4,37:22:15
+2019,200K,5,Reinaldo,Monges,Doral,FL,44,M,5,38:55:43
+2019,150K,1,Carter,Dodd,,,25,M,1,19:31:47
+2019,150K,2,Predrag,Krkic,,,64,M,2,25:10:19
+2019,150K,3,Lyle,Block,,,38,M,3,26:08:36
+2019,150K,4,Rob,Judd,,,43,M,4,27:52:22
+2019,150K,5,Scott,Slightom,,,45,M,5,28:32:45
+2019,150K,6,Aron,Mcdonald,,,47,M,6,29:09:10
+2019,150K,7,Rishi,Remesh,,,25,M,7,31:31:00
+2019,150K,8,Daniel,Carney,,,49,M,8,31:46:39
+2019,150K,9,Arizona,Lagousakos,,,49,F,1,33:43:25
+2019,150K,10,Justin,Bernero,,,25,M,9,36:06:51
+2019,150K,11,Matthew,Humes,,,28,M,10,37:23:36
+2019,100K,1,Matthew,Hajny,,,42,M,1,12:00:44
+2019,100K,2,Todd,Gunter,,,33,M,2,14:26:58
+2019,100K,3,Abbi,Auger,,,50,F,1,16:45:04
+2019,100K,4,Mitchell,Elliott,,,35,M,3,16:54:03
+2019,100K,5,James,Solomon,,,29,M,4,17:04:33
+2019,100K,6,Steve,Hale,,,44,M,5,17:17:09
+2019,100K,7,Derek,Beecham,,,31,M,6,17:24:36
+2019,100K,8,Daria,Podejko,,,47,F,2,17:24:37
+2019,100K,9,Rose,Kilkenny,,,49,F,3,17:24:56
+2019,100K,10,Andrew,Schafer,,,44,M,7,18:00:34
+2019,100K,11,Rodman,Miotti,,,42,M,8,18:02:42
+2019,100K,12,Maureen,Randall,,,43,F,4,18:26:29
+2019,100K,13,Lauren,Yarbrough,,,35,F,5,18:50:43
+2019,100K,14,Scott,Nailor,,,48,M,9,18:58:03
+2019,100K,15,Allison,Kallo,,,46,F,6,19:57:56
+2019,100K,16,Joyce,Garnet,,,48,F,7,20:01:45
+2019,100K,17,Kristie,Sievers,,,45,F,8,20:05:04
+2019,100K,18,Bj,Farmer,,,32,M,10,20:18:44
+2019,100K,19,Natasha,Mazumdar,,,29,F,9,20:29:51
+2019,100K,20,David,Hosbrough,,,42,M,11,20:31:11
+2019,100K,21,Jill,Moser,,,44,F,10,21:39:51
+2019,100K,22,Raaj,Remesh,,,31,M,12,21:59:47
+2019,100K,23,Tara,Mayner,,,48,F,11,22:41:48
+2019,100K,24,Suzie,Luthe,,,48,F,12,22:57:32
+2019,100K,25,Lisa,McNair,,,53,F,13,23:30:27
+2019,100K,26,Cindy,Rieckhoff,,,51,F,14,23:30:39
+2019,100K,27,Jesus,Ledesma,,,62,M,13,24:16:43
+2019,50K,1,David,Curtin,,,45,M,1,5:43:27
+2019,50K,2,Laura,Hurt,,,28,F,1,6:24:17
+2019,50K,3,Eric,Munson,,,33,M,2,6:46:16
+2019,50K,4,Julie,Donagan,,,25,F,2,6:52:55
+2019,50K,5,Jacob,Gerber,,,29,M,3,6:53:09
+2019,50K,6,David,Failing,,,33,M,4,6:55:12
+2019,50K,7,Dawn,Owen,,,46,F,3,7:34:34
+2019,50K,8,Glenn,Richardson,,,43,M,5,7:59:15
+2019,50K,9,Divya,Joshi,,,50,F,4,8:10:31
+2019,50K,10,Julie,Wright,,,58,F,5,8:44:16
+2019,50K,11,Debra,Studniarz,,,55,F,6,8:44:18
+2019,50K,12,Dave,Bechtold,,,64,M,6,8:44:20
+2019,50K,13,David,Macias,,,27,M,7,8:51:39
+2019,50K,14,Lisa,Helm,,,50,F,7,9:55:26
+2019,50K,15,Morgan,Mader,,,34,F,8,9:57:23
+2019,50K,16,Ron,Isola,,,54,M,8,10:08:42
+2019,50K,17,Brandi,Richter,,,40,F,9,10:26:45
+2019,50K,18,Imelda,Maronde,,,44,F,10,10:59:15
+2019,50K,19,Cynthia,Beatty,,,57,F,11,11:16:08
+2019,50K,20,Chris,Dibbern,,,37,M,9,11:51:47

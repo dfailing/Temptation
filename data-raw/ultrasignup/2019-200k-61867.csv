@@ -1,0 +1,17 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2019,61867,200K,124.3,59,0,50-59,,Atkins,0,0,Brian,0,M,0,,Beatty,31438,0,0,0,0,66.73,IA,2,0
+2019,61867,200K,124.3,63,0,60-69,,Hawthorn Woods,0,0,Bill,0,M,0,,Fairfield,127600,0,0,0,0,59.62,IL,2,0
+2019,61867,200K,124.3,41,0,40-49,,Chicago,0,0,Danny,0,M,0,,McNulty,385790,0,0,0,0,45.66,IL,3,0
+2019,61867,200K,124.3,57,0,50-59,,Kearney,0,0,Chinyere,0,M,0,,Obasi,717678,0,0,0,0,58.78,NE,3,0
+2019,61867,200K,124.3,31,0,30-39,,Beloit,0,0,Tyler,0,M,0,,Sears,772688,0,0,0,0,55.66,WI,3,0
+2019,61867,200K,124.3,42,0,40-49,,Somerset,0,0,Trudy,0,F,0,,Lonesky,1042996,0,0,0,0,70,KY,3,0
+2019,61867,200K,124.3,32,0,30-39,,Macomb,0,0,Cole,0,M,0,,Bavery,1262728,0,0,0,0,78.44,IL,3,0
+2019,61867,200K,124.3,35,0,30-39,,Tinley Park,0,0,Jonathan,0,M,0,,Mireles,1363602,0,0,0,0,63.26,IL,3,0
+2019,61867,200K,124.3,28,0,20-29,,Plainfield,0,0,Matt,0,M,0,,Lancor,1707333,0,0,0,0,0,IL,3,0
+2019,61867,200K,124.3,35,0,30-39,,Ofallon,0,0,Ashley,0,F,0,,Jones,2762497,0,0,0,0,69.91,MO,3,0
+2019,61867,200K,124.3,34,0,30-39,,Suffolk,0,0,Ruth,0,F,0,,Maeker,3362344,0,0,0,0,81.48,VA,3,0
+2019,61867,200K,124.3,53,0,50-59,,Johnsburg,0,0,Jeffrey,33:01:20,M,1,,Lenard,519587,0,1,0,0,74.62,IL,6,118880000
+2019,61867,200K,124.3,53,0,50-59,,Libertyville,0,0,Matthew,37:03:33,M,2,,Condron,9564,0,2,0,0,77.56,IL,6,133413000
+2019,61867,200K,124.3,42,0,40-49,,Peoria,0,0,Gabriel,37:22:09,M,3,,Trevino,1474166,0,3,0,0,76.39,IL,6,134529000
+2019,61867,200K,124.3,32,0,30-39,,Marquette Heights,0,0,David,37:22:15,M,4,,Hanna,1228169,0,4,0,0,70.48,IL,6,134535000
+2019,61867,200K,124.3,44,0,40-49,,Doral,0,0,Reinaldo,38:55:43,M,5,,Monges,1748007,0,5,0,0,55.02,FL,6,140143000

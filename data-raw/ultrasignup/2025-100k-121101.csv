@@ -1,0 +1,10 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2025,121101,100K,62.1,37,0,30-39,,Metamora,0,0,Michael,15:27:46,M,1,,Donini,1900081,0,1,0,0,72.82,IL,1,55666000
+2025,121101,100K,62.1,29,0,20-29,,Chatham,0,0,Floyd,16:40:01,M,2,,Bastien,2608770,0,2,0,0,57,IL,1,60001000
+2025,121101,100K,62.1,46,0,40-49,,Cumming,0,0,Chris,16:42:01,M,3,,Beckwith,1527662,0,3,0,0,65.48,IA,1,60121000
+2025,121101,100K,62.1,32,0,30-39,,Saint Charles,0,0,Benjamin,17:52:42,M,4,,Herbst,2421406,0,4,0,0,66.34,MO,1,64362000
+2025,121101,100K,62.1,49,0,40-49,,Bloomington,0,0,Rob,18:19:01,M,5,,Judd,952315,0,5,0,0,64.2,IL,1,65941000
+2025,121101,100K,62.1,45,0,40-49,,Darien,0,0,Nora,20:13:03,F,1,,Ortinau,2134823,0,6,0,0,70.04,IL,1,72783000
+2025,121101,100K,62.1,39,0,30-39,,Cincinnati,0,0,Jeff,23:36:11,M,6,,Kayse,2783530,0,7,0,0,65.51,OH,1,84971000
+2025,121101,100K,62.1,45,0,40-49,,Champaign,0,0,Daniel,26:44:19,M,7,,Chen,1857104,0,8,0,0,50.92,IL,1,96259000
+2025,121101,100K,62.1,42,0,40-49,,Buffalo Grove,0,0,Kiran,28:10:41,M,8,,Gutta,2498077,0,9,0,0,42.57,IL,1,101441000

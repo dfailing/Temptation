@@ -1,0 +1,4 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2025,121103,10K,6.2,42,0,40-49,,Lincoln,0,0,Brian,1:06:32,M,1,,Tomkinson,1998416,0,1,0,0,62.77,IL,1,3992000
+2025,121103,10K,6.2,42,0,40-49,,Peoria,0,0,Genn,1:50:23,F,1,,King,2180109,0,2,0,0,54.62,IL,1,6623000
+2025,121103,10K,6.2,67,0,60-69,,Peoria,0,0,Therese,1:52:31,F,2,,Brink,1412421,0,3,0,0,54.93,IL,1,6751000

@@ -1,0 +1,5 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2023,97519,150K,93.2,40,0,40-49,,Cornell,0,0,Cat,25:04:38,F,1,,Delheimer,1965649,0,1,0,0,85.14,IL,6,90278000
+2023,97519,150K,93.2,49,0,40-49,,Morton,0,0,Todd,28:42:31,M,1,,Baker,1538164,0,2,0,0,73.99,IL,6,103351000
+2023,97519,150K,93.2,59,0,50-59,,Genoa,0,0,Robert,33:51:32,M,2,,Whitten,401503,0,3,0,0,65.55,IL,6,121892000
+2023,97519,150K,93.2,43,0,40-49,,Champaign,0,0,Daniel,36:11:31,M,3,,Chen,1857104,0,4,0,0,50.92,IL,6,130291000

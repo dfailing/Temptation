@@ -1,0 +1,13 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2021,79315,150K,93.2,34,0,30-39,,Great Lakes,0,0,Todd,26:33:41,M,1,,Gunter,1205314,0,1,0,0,82.83,IL,1,95621000
+2021,79315,150K,93.2,50,0,50-59,,Joliet,0,0,Sergio,27:37:01,M,2,,Arreola,1984347,0,2,0,0,65.23,IL,1,99421000
+2021,79315,150K,93.2,53,0,50-59,,Lake In Hills,0,0,Eric,28:16:35,M,3,,Bloomquist,212710,0,3,0,0,67.74,IL,1,101795000
+2021,79315,150K,93.2,24,0,20-29,,Chicago,0,0,Sheel,28:40:45,M,4,,Stueber,1991973,0,4,0,0,85.08,IL,1,103245000
+2021,79315,150K,93.2,29,0,20-29,,Augusta,0,0,Nick,31:00:34,M,5,,Sauvan,1973737,0,5,0,0,72.02,GA,1,111634000
+2021,79315,150K,93.2,36,0,30-39,,Villa Park,0,0,Morgan,32:14:59,F,1,,Mader,1763343,0,6,0,0,78.39,IL,1,116099000
+2021,79315,150K,93.2,31,0,30-39,,Villa Park,0,0,James,32:15:00,M,6,,Solomon,1760157,0,7,0,0,83.27,IL,1,116100000
+2021,79315,150K,93.2,26,0,20-29,,Towanda,0,0,Michael,32:54:14,M,7,,Braun,2384363,0,8,0,0,84.02,IL,1,118454000
+2021,79315,150K,93.2,47,0,40-49,,Barnhart,0,0,Stacey,33:49:24,F,2,,Barrientos,1575733,0,9,0,0,81.64,MO,1,121764000
+2021,79315,150K,93.2,41,0,40-49,,San Antonio,0,0,Agatha,34:12:16,F,3,,Kerr,1458034,0,10,0,0,60.2,TX,1,123136000
+2021,79315,150K,93.2,36,0,30-39,,Pensacola,0,0,Loren,38:12:06,M,8,,Wohletz,196895,0,11,0,0,81.08,FL,1,137526000
+2021,79315,150K,93.2,50,0,50-59,,Fort Wayne,0,0,Suzie,38:14:20,F,4,,Luthe,1648103,0,12,0,0,62.64,IN,1,137660000

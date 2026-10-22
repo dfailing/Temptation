@@ -1,0 +1,5 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2020,70941,200K,124.3,30,0,30-39,147,Villa Park,0,0,James,32:38:44,M,1,,Solomon,1760157,0,1,0,0,83.27,IL,6,117524000
+2020,70941,200K,124.3,43,0,40-49,120,Grand Rapids,0,0,Erika,33:42:42,F,1,,Kuhnle,721342,0,2,0,0,90.25,MI,6,121362000
+2020,70941,200K,124.3,41,0,40-49,131,St. Louis,0,0,Angela,35:35:06,F,2,,McKnight,1183030,0,3,0,0,83.06,MO,6,128106000
+2020,70941,200K,124.3,44,0,40-49,141,Louisville,0,0,Glenn,37:28:56,M,2,,Richardson,1189278,0,4,0,0,63.11,KY,6,134936000

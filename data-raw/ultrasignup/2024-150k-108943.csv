@@ -1,0 +1,4 @@
+year,race_id,event,distance,age,age_rank,agegroup,bib,city,distance_time,drilldown,firstname,formattime,gender,gender_place,identgender,lastname,participant_id,photo_count,place,prior_count,race_count,runner_rank,state,status,time
+2024,108943,150K,93.2,49,0,40-49,,Franklin,0,0,Chad,26:53:52,M,1,,McDannald,2150589,0,1,0,0,69.89,IL,1,96832000
+2024,108943,150K,93.2,26,0,20-29,,Aurora,0,0,John,28:22:58,M,2,,Brooks,2592070,0,2,0,0,73.61,IL,1,102178000
+2024,108943,150K,93.2,37,0,30-39,,Burr Ridge,0,0,Bj,35:08:08,M,3,,Farmer,736190,0,3,0,0,60.39,IL,1,126488000
