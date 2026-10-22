@@ -45,7 +45,7 @@ a:hover, a:focus { color: var(--berad-charcoal); opacity: 0.75; }
 
 .skin-blue .main-header .logo {
   font-family: var(--berad-font-display);
-  font-size: 24px;
+  font-size: 22px;
   letter-spacing: 1px;
   text-transform: uppercase;
   border-bottom: 0;
@@ -63,6 +63,23 @@ a:hover, a:focus { color: var(--berad-charcoal); opacity: 0.75; }
 .skin-blue .main-header .navbar .sidebar-toggle:hover {
   background-color: var(--berad-charcoal);
   color: var(--berad-mustard);
+}
+
+/* BErad logo in the header (www/berad-logo.webp, from beradracing.com) */
+.skin-blue .main-header .logo a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 50px;
+}
+
+.berad-logo {
+  height: 38px;
+  width: auto;
+  background-color: var(--berad-cream);
+  border-radius: 6px;
+  padding: 2px 4px;
 }
 
 /* Sidebar ---------------------------------------------------------------- */

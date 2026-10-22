@@ -11,7 +11,11 @@ library(tidyr)
 ui <- dashboardPage(
   title = "Temptation 200 Ultras",
   dashboardHeader(
-    title = tags$a("Temptation 200", titleWidth = "auto", href = "https://www.temptation200.com/", style = "color: white;")
+    title = tags$a(
+      tags$img(src = "berad-logo.webp", alt = "BErad Racing", class = "berad-logo"),
+      "Temptation 200",
+      titleWidth = "auto", href = "https://www.temptation200.com/", style = "color: white;"
+    )
   ),
   dashboardSidebar(
     sidebarMenu(
@@ -33,7 +37,7 @@ ui <- dashboardPage(
         }
       ')),
       # BErad Racing theme (colors, fonts); remove this line to revert to the default look
-      tags$link(rel = "stylesheet", type = "text/css", href = "berad.css"),
+      tags$link(rel = "stylesheet", type = "text/css", href = "berad.css?v=3"),
       tags$script(
         '
       $(document).ready(function() {
